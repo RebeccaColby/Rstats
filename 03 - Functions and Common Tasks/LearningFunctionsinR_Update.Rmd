@@ -212,7 +212,7 @@ You can also create nested for loops which are loops inside of loops if you need
 
 ```{r}
 
-# Let's make a 10 x 10 matrix and fill it using a nested for loop
+# Let's make a 5 x 6 matrix and fill it using a nested for loop
 matrix1 <- matrix(nrow=5, ncol=6)
 matrix1 ## you can see it's empty right now
 
